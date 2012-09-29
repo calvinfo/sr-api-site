@@ -1,0 +1,2 @@
+
+exports.teams = require('./teams');
